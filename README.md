@@ -1,2 +1,2 @@
-# tik-tac-toe
-build a tik tac toe game with javascript
+# rock paper scissors
+build a rock paper scissors game with javascript
