@@ -1,0 +1,17 @@
+﻿plan para armar juego de piedra papel o tijeras
+
+
+paso 1 armar la UI 
+
+necesita 3 botones uno para cada opcion 
+
+necesita una textarea donde mostrar datos estilo un console log, deberia usar innertext 
+
+
+paso 2 refactorizar el codigo para incluir los dom methods.
+
+Cambiar los console log por metodos como innertext 
+
+cambiar el user imput a event listners como on click  
+
+cambiar el loop a un while player < 5 || pc < 5
